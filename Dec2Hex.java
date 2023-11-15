@@ -35,3 +35,4 @@ class Dec2Hex {
     }
 }
 
+/*added exception handling*/
