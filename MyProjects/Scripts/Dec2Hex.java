@@ -1,5 +1,5 @@
 import java.util.logging.Logger;
-//TESTING
+//TESTING 2
 // This class converts a decimal integer to its hexadecimal representation
 public class Dec2Hex {
     // Main method to be executed when running the program
